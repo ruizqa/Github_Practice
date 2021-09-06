@@ -1,4 +1,6 @@
-
+<h1>
+   This is a demo on how to use the <strong> command line and .git </strong>
+</h1>
 
 ls  - Shows everything under the current section we are on 
 cd  - Change to another directory
@@ -24,6 +26,8 @@ Git commands
 // Uploads every change to github
 5) git push -u origin master
    git push -u origin main
+
+// To save a new change we need to run steps 2, 3, and 5
 
 // Show the current file tracking status 
 git status 
