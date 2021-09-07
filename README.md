@@ -29,7 +29,8 @@ Git commands <br>
 
 // To save a new change we need to run steps 2, 3, and 5
 
-// Show the current file tracking status 
+// Show the current file tracking status <br>
 git status 
 
-rm -rf .git <br>
+// Remove the .git reference to set it up again <br>
+rm -rf .git 
